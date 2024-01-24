@@ -1,6 +1,10 @@
 let input = document.getElementById('inputBox');
 let buttons = document.querySelectorAll('button');
-console.log("This is a test");
+
+var a=10;
+console.log("Hello Elena");
+console.log("This is to create a conflict");
+var b = 30;
 
 let string = "";
 let arr = Array.from(buttons);
