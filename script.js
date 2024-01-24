@@ -1,5 +1,6 @@
 let input = document.getElementById('inputBox');
 let buttons = document.querySelectorAll('button');
+console.log("This is a test");
 
 let string = "";
 let arr = Array.from(buttons);
